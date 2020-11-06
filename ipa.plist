@@ -39,7 +39,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.app.preJinShaHor</string>
+                <string>cn.test.app.game</string>
             </dict>
         </dict>
     </array>
